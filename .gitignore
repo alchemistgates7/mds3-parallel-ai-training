@@ -1,0 +1,19 @@
+# Raw dataset
+StockPriceDataset.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Operating system
+.DS_Store
+Thumbs.db
