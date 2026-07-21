@@ -1,0 +1,5 @@
+configuration,num_trees,max_depth,validation_f1
+E2,20,10,0.4972
+E4,50,10,0.4954
+E3,50,5,0.4522
+E1,20,5,0.4417
